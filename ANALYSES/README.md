@@ -1,4 +1,4 @@
-# This directory contains the necessary script to reproduce the analyses from __insert_DOI_here___ #
+# This directory contains the necessary scripts to reproduce the analyses from __insert_DOI_here___ #
 
 ## Section A ##
 
